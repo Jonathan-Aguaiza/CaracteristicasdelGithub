@@ -25,13 +25,13 @@ public class CaracteristicasDelGithub {
         System.out.println("            UNIVEIRSIDAD DE LAS FUERZAS ARMADAS ESPE");
         System.out.println("NOMBRE: AGUAIZA JONATHAN                   Carrera: Ing Automotriz");
         
-        System.out.println("Escriba caracteristica 1");
+        System.out.println("Escriba caracteristica 1:");
         String c1=objeto.nextLine();
         
-        System.out.println("Escriba caracteristica 2");
+        System.out.println("Escriba caracteristica 2:");
         String c2=objeto.nextLine();
         
-        System.out.println("Escriba caracteristica 3");
+        System.out.println("Escriba caracteristica 3:");
         String c3=objeto.nextLine();
         
         System.out.println("MUCHAS GRACIAS POR SU PARTICIPACIÓN");
